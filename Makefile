@@ -1,5 +1,5 @@
 build:
-	gcc Tema2.h functii_Tema2.c Tema2.c -o tema2
+	gcc Tema2.h functii_Tema2.c Tema2.c -o switch
 clean:
-	rm -f *.o tema2
+	rm -f *.o switch
 
